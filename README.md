@@ -6,4 +6,7 @@
 </p>
 
 # DeepLearning 
-This repo is a comprheensive content to support any effort toward to  DeepLearning topics learning. 
+This repository contains comprehensive content to support any effort to learn DeepLearning topics. 
+
+First content explored was to build your own neural network please check:
+  <a href="https://github.com/andreisantos2099/DeepLearning/tree/main/MakeYourOwnNetwork">Make Your Own Neural Network</a>
