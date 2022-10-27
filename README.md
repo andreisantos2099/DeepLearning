@@ -8,5 +8,5 @@
 # DeepLearning 
 This repository contains comprehensive content to support any effort to learn DeepLearning topics. 
 
-First content explored was to build your own neural network please check:
+## Step 1 - Getting start:
   <a href="https://github.com/andreisantos2099/DeepLearning/tree/main/MakeYourOwnNetwork">Make Your Own Neural Network</a>
